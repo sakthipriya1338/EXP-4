@@ -42,7 +42,8 @@ Half wave rectifier:
 
 Waveform:
 
-<img width="934" height="473" alt="Screenshot 2025-12-17 134659" src="https://github.com/user-attachments/assets/23a0ac31-e5c3-450b-a48d-208100eaeb6d" />
+<img width="801" height="415" alt="Screenshot 2025-12-17 135944" src="https://github.com/user-attachments/assets/882e4366-7353-45a3-8734-04633ddfe58f" />
+
 
 Tabular column:
 
@@ -60,7 +61,7 @@ Full wave rectifier:
 
 Waveform:
 
-<img width="938" height="481" alt="Screenshot 2025-12-17 134742" src="https://github.com/user-attachments/assets/6976ea8b-7818-4812-92a9-c65e6d0f2cba" />
+<img width="802" height="422" alt="Screenshot 2025-12-17 140031" src="https://github.com/user-attachments/assets/feb00c29-d4af-4f7c-8230-52d92fc92ac9" />
 
 Tabular column:
 
