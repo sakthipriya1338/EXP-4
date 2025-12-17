@@ -36,16 +36,39 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier:
 
-Bridge rectifier with filter:
+<img width="674" height="476" alt="Screenshot 2025-12-17 134144" src="https://github.com/user-attachments/assets/0e4fc771-114e-4d48-875e-a6aac3fd277c" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Waveform:
 
-WAVEFORM:
+<img width="934" height="473" alt="Screenshot 2025-12-17 134659" src="https://github.com/user-attachments/assets/23a0ac31-e5c3-450b-a48d-208100eaeb6d" />
+
+Tabular column:
+
+
+| **Input Voltage** |              | **Output Voltage (Without Filter)** |              | **Output Voltage (With Filter)** |              |
+|-------------------|--------------|-------------------------------------|--------------|----------------------------------|--------------|
+| **Vm (V)**        | **t (ms)**   | **Vm (V)**                          | **t (ms)**   | **Vm (V)**                       | **t (ms)**   |
+| 100               | 20           | 100                                 | 10           | 100 V, 5 V                       | 5 ms, 25 ms  |
+
+
+
+Full wave rectifier:
+
+<img width="674" height="541" alt="Screenshot 2025-12-17 134217" src="https://github.com/user-attachments/assets/7a2c6b90-6b17-4abb-8b68-8f9f915b2c33" />
+
+Waveform:
+
+<img width="938" height="481" alt="Screenshot 2025-12-17 134742" src="https://github.com/user-attachments/assets/6976ea8b-7818-4812-92a9-c65e6d0f2cba" />
+
+Tabular column:
+
+
+| **Input Voltage** |              | **Output Voltage (Without Filter)** |              | **Output Voltage (With Filter)** |              |
+|-------------------|--------------|-------------------------------------|--------------|----------------------------------|--------------|
+| **Vm (V)**        | **t (ms)**   | **Vm (V)**                          | **t (ms)**   | **Vm (V)**                       | **t (ms)**   |
+| 50                | 20           | 50                                  | 5            | 50 V, 46 V                       | 5 ms, 14 ms  |
 
 
 RESULT:
